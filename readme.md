@@ -1,3 +1,5 @@
+This repository is revised from adda(https://github.com/erictzeng/adda)
+
 # Adversarial Discriminative Domain Adaptation
 
 ## Getting started
